@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Emporia Energy is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.emporiaenergy.com
+Emporia Energy provides smart energy monitoring and management solutions for residential and commercial customers. Their platform offers real-time electricity usage data, device control, and insights to help users reduce consumption and save on utility bills. Through a robust API, developers can integrate energy data, control smart devices, and build applications that promote energy efficiency and sustainability across the IoT ecosystem.
+
+**Areas:** Company · Energy · Smart Home · IoT · Monitoring
+
+## Emporia Energy on APIs.io
+
+Everything profiled for Emporia Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/emporia-energy/](https://apis.io/providers/emporia-energy/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Emporia Energy API](https://apis.io/apis/emporia-energy/emporia-energy-api/) — API for accessing energy data and device control
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Emporia Energy Domain Security](https://apis.io/security/emporia-energy/emporia-energy-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.emporiaenergy.com)
+- [Documentation](https://help.emporiaenergy.com/)
+- [Getting started](https://help.emporiaenergy.com/en/articles/13226219-getting-started-with-the-emporia-app)
+- [Support](https://help.emporiaenergy.com/en/)
+- [Blog](https://www.emporiaenergy.com/blog/)
+- [Terms of service](https://www.emporiaenergy.com/terms-of-service/)
+- [Privacy policy](https://www.emporiaenergy.com/privacy-policy/)
+- [GitHub](https://github.com/emporiaenergy)
+
+## API Evangelist rating
+
+**Kin Score 17.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 4.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+
+**Regulatory alignment 11.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/emporia-energy/](https://apis.io/providers/emporia-energy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Emporia Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/emporia-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
